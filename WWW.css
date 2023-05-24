@@ -1,0 +1,40 @@
+html {
+  background-image: url('https://phonoteka.org/uploads/posts/2022-09/1663850603_1-phonoteka-org-p-cherno-zheltii-fon-gradient-pinterest-1.png');
+}
+body, h1, p {
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #333;
+  padding: 20px;
+  color: #ffdd00;
+  text-align: center;
+}
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+body {
+  background-image: image('https://cdn.shopify.com/s/files/1/0561/0215/8500/products/02-Bg-GIF_f2dc069b-86ec-4893-be29-964fe4d84c25.gif?v=1670666160');
+  text-align: center;
+}
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color:#333 ;
+  color: #fff;
+  text-decoration: none;
+  margin-right: 10px;
+  border-radius: 5px;
+}
